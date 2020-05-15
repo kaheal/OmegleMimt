@@ -1,0 +1,19 @@
+{
+  "name": "omegleb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "netmask": "^1.0.6",
+    "omegle-node": "^1.1.4",
+    "socks-proxy-agent": "^5.0.0",
+    "tor-request": "^3.1.0"
+  }
+}
